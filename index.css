@@ -1,0 +1,31 @@
+.title-red {
+    color:red;
+}
+
+.post-width {
+    width: 500px !important;
+}
+
+img {
+    width: 100% !important;
+}
+
+.height-select {
+    height: 30px;
+}
+.color-missing{
+    background-color:rgb(219, 193, 205)
+}
+
+.color-card{
+    background-color: gray;
+}
+.color-cancel{
+    background-color: gray;
+    color:white
+}
+.color-send{
+    background-color: rgb(37, 37, 241);
+    color:white
+}
+
